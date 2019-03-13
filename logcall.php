@@ -2,7 +2,10 @@
 <html>
 <head>
 <title>Log Call</title>
-<?php include 'navigation.php';?>
+<?php include 'navigation.php';
+//etalax hongxian
+?>
+
 <style>
 
 
